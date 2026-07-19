@@ -1,7 +1,7 @@
 # 👋 Hi, I'm M Pavithra
 
 🎓 BCA (AI & ML) Student  
-📍 Bengaluru, Karnataka, India
+📍 Bengaluru, Karnataka,India
 
 ## About Me
 
